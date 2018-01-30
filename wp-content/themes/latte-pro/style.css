@@ -242,8 +242,8 @@ img.alignright,
 	font-weight: bold;
 }
 .intro div.avatar {
-	width: 270px;
-	height:220px;
+	width: 100%;
+	height:170px;
 	background-size: cover;
 	
 	margin: 0 auto;
